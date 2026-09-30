@@ -4,4 +4,23 @@
     <booktitle>
         <mainbooktitle>智能温控器用户手册</mainbooktitle>
     </booktitle>
+    <appendix>
+        <topicref href="../topics/mapcontent.xml"/>
+        <topicref href="../topics/safey001.xml">
+            <topicref href="../topics/safey002.xml"/>
+        </topicref>
+        <topicref href="../topics/install001.xml">
+            <topicref href="../topics/install002.xml"/>
+            <topicref href="../topics/install003.xml"/>
+        </topicref>
+        <topicref href="../topics/trouble001.xml">
+            <topicref href="../topics/trouble002.xml"/>
+            <topicref href="../topics/trouble003.xml"/>
+        </topicref>
+        <topicref href="../topics/glossary001.xml">
+            <topicref href="../topics/glossary002.xml"/>
+            <topicref href="../topics/glossary003.xml"/>
+            <topicref href="../topics/glossary004.xml"/>
+        </topicref>
+    </appendix>
 </bookmap>
