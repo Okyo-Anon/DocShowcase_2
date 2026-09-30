@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_nr5_nkb_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>指示灯一直红灯？</title>
     <conbody>
-        <p></p>
+        <p>通常表示配网失败。请：<ol id="ol_ehs_skb_tkc">
+                <li>确认手机连接的是 2.4G WiFi</li>
+                <li>重启设备</li>
+                <li>重新配网</li>
+            </ol></p>
     </conbody>
 </concept>
