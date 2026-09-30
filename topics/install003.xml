@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_k4f_cjb_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>安装流程</title>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
         <steps>
+            <stepsection>
+                <codeblock id="codeblock_d4q_2jb_tkc">    # 示例：设备初始化命令
+    thermo-cli init -- mode auto</codeblock>
+            </stepsection>
             <step>
-                <cmd></cmd>
+                <cmd>将设备固定在墙面</cmd>
+            </step>
+            <step>
+                <cmd>连接电源线</cmd>
+            </step>
+            <step>
+                <cmd>打开电源，等待指示灯变绿</cmd>
+            </step>
+            <step>
+                <cmd>在手机app中完成配网<image href="../images/install.png" id="image_txf_tjb_tkc">
+                        <alt>安装示意图</alt>
+                    </image></cmd>
             </step>
         </steps>
     </taskbody>
