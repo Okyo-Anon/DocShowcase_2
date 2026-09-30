@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_pqq_bkb_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>设备无法开机怎么办？</title>
     <conbody>
-        <p></p>
+        <p>请依次检查：</p>
+        <ul id="ul_i1t_kkb_tkc">
+            <li>电源是否接通</li>
+            <li>插座是否有电</li>
+            <li>电源线是否损坏</li>
+        </ul>
+        <p>如果仍无法开机，请联系售后。</p>
     </conbody>
 </concept>
