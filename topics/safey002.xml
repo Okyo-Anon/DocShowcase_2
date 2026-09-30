@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_msd_cfb_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>安装前检查</title>
     <conbody>
-        <p></p>
+        <data>
+            <title>请确认以下事项：</title>
+        </data>
+        <ul id="ul_ptt_2fb_tkc">
+            <li>电源电压符合设备要求</li>
+            <li>安装位置远离水源</li>
+            <li>通风良好，无遮挡</li>
+        </ul>
+        <simpletable relcolwidth="1* 1*" id="simpletable_rlk_jfb_tkc">
+            <sthead>
+                <stentry>等级</stentry>
+                <stentry>含义</stentry>
+            </sthead>
+            <strow>
+                <stentry>
+                    <p>危险</p>
+                </stentry>
+                <stentry>
+                    <p>可能导致严重人身伤害</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>警告</p>
+                </stentry>
+                <stentry>
+                    <p>可能导致设备损坏</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>注意</p>
+                </stentry>
+                <stentry>
+                    <p>操作不当可能影响使用</p>
+                </stentry>
+            </strow>
+        </simpletable>
     </conbody>
 </concept>
