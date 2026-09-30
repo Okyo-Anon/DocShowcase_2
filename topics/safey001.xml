@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_s5q_r2b_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>安全须知</title>
     <conbody>
-        <p></p>
+        <hazardstatement id="hazardstatement_nnd_v2b_tkc">
+            <messagepanel id="messagepanel_ond_v2b_tkc">
+                <typeofhazard>触电危险</typeofhazard>
+                <howtoavoid>安装前请务必断开电源。</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <note id="note_rvj_z2b_tkc">
+            <p>本设备仅限室内使用，工作温度为0℃至40℃。</p>
+        </note>
     </conbody>
 </concept>
