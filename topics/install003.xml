@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ir4_2hb_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>安装流程</title>
     <conbody>
-        <p></p>
+        <codeblock id="codeblock_pds_ghb_tkc"> # 示例：设备初始化命令
+    thermo-cli init -- mode auto</codeblock>
+        <p>步骤说明：</p>
+        <ol id="ol_ghz_lhb_tkc">
+            <li>将设备固定在墙面</li>
+            <li>连接电源线</li>
+            <li>打开电源，等待指示灯变绿</li>
+            <li>在手机app中完成配网</li>
+        </ol>
+        <image href="../images/install.png" id="image_owb_qhb_tkc">
+            <alt>安装示意图</alt>
+        </image>
     </conbody>
 </concept>
