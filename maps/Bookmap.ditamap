@@ -9,6 +9,9 @@
         <topicref href="../topics/concept002.xml"/>
         <topicref href="../topics/security001.xml">
             <topicref href="../topics/security002.xml"/>
+            <topicref href="../topics/security003.xml">
+                <topicref href="../topics/security004.xml"/>
+            </topicref>
         </topicref>
     </appendix>
 </bookmap>
