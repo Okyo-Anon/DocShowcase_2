@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_pw5_wc1_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>安全要求</title>
     <conbody>
-        <p></p>
+        <data>
+            <title>安装人员安全要求</title>
+        </data>
+        <ul id="ul_kg4_dd1_tkc">
+            <li>只有经授权的合格技术人员才能进行本项安装。</li>
+            <li>经授权的安全管理员必须保证现场，建筑，安装，连接，使用，拆卸以及运输等关键性系统的安全度。</li>
+        </ul>
+        <hazardstatement id="hazardstatement_jv4_md1_tkc">
+            <messagepanel id="messagepanel_kv4_md1_tkc">
+                <typeofhazard>本项安装会给用户带来危险，造成损失。</typeofhazard>
+                <howtoavoid>只有您完全了解所有正确的安全检测和安装说明之后，才能进行本项安装。</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <data>
+            <title>产品安全要求</title>
+        </data>
+        <p>结构底座安装部件应该保持干燥，清洁，并且进行了防护处理。只有在与其产品设计相配，并对产品的安全度、磨损度、变形和腐蚀程度，以及其它可能会影响到部件负载操作能力的条件进行常规检测后，才可进行安装活动。建议应定期对所有安装设备和出现使用频率较多的关键性安装设备进行检测。如果数个部件受到破坏并有可能引起负载能力下降时，出于安全需要的考虑，应立即将其拆卸或者更换。</p>
     </conbody>
 </concept>
