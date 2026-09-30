@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_qhc_x3b_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>准备工作</title>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd> 打开包装，核对配件清单</cmd>
+            </step>
+            <step>
+                <cmd>准备螺丝刀和电工胶带</cmd>
+            </step>
+            <step>
+                <cmd>关闭电源总闸</cmd>
             </step>
         </steps>
     </taskbody>
