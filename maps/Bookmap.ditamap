@@ -4,4 +4,9 @@
     <booktitle>
         <mainbooktitle><b>LED显示屏安装使用手册</b></mainbooktitle>
     </booktitle>
+    <appendix>
+        <topicref href="concept001.xml"/>
+        <topicref href="../topics/concept002.xml"/>
+        <topicref href="../topics/security001.xml"/>
+    </appendix>
 </bookmap>
