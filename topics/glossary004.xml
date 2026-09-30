@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="glossentry_lfc_ylb_tkc">
-    <glossterm></glossterm>
-    <glossdef></glossdef>
+    <glossterm>SOP</glossterm>
+    <glossdef>
+        <p>标准作业程序，规定某项工作的标准流程。</p>
+    </glossdef>
 </glossentry>
