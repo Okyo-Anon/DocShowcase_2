@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="glossentry_yks_tlb_tkc">
-    <glossterm></glossterm>
-    <glossdef></glossdef>
+    <glossterm>配网</glossterm>
+    <glossdef>
+        <p>将设备连接到无线网络的过程。</p>
+    </glossdef>
 </glossentry>
