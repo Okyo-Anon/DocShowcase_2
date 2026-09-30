@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_s4k_n11_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>安全说明</title>
     <conbody>
-        <p></p>
+        <p>
+            <ul id="ul_jkh_z11_tkc">
+                <li>此产品输入电压为交流电，若使用错误会对人员造成伤害或财产受到损失。</li>
+                <li>显示屏体为建筑结构，在安装操作时，必须带上安全绳，减免受到伤害的危险。</li>
+                <li>搬运显示单元以及拼接等重负荷操作时，应注意手指不要被弄伤。</li>
+            </ul>
+        </p>
     </conbody>
 </concept>
