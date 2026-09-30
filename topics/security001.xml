@@ -2,8 +2,5 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_snx_bwz_skc">
     <title>安全指示</title>
-    <shortdesc></shortdesc>
-    <conbody>
-        <p>为了防止使用者或其他人受到危害或财产受到损失，请使用前仔细阅读本安全指示。</p>
-    </conbody>
+    <shortdesc>为了防止使用者或其他人受到危害或财产受到损失，请使用前仔细阅读本安全指示。</shortdesc>
 </concept>
