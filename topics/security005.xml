@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_eyc_jf1_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>产品安全要求</title>
     <conbody>
-        <p></p>
+        <p>结构底座安装部件应该保持干燥，清洁，并且进行了防护处理。只有在与其产品设计相配，并对产品的安全度、磨损度、变形和腐蚀程度，以及其它可能会影响到部件负载操作能力的条件进行常规检测后，才可进行安装活动。</p>
+        <p>建议应定期对所有安装设备和出现使用频率较多的关键性安装设备进行检测。如果数个部件受到破坏并有可能引起负载能力下降时，出于安全需要的考虑，应立即将其拆卸或者更换。</p>
     </conbody>
 </concept>
