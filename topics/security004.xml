@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_yrw_r21_tkc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>安装人员安全要求</title>
     <conbody>
-        <p></p>
+        <p>
+            <ul id="ul_qn4_t21_tkc">
+                <li>有经授权的合格技术人员才能进行本项安装。</li>
+                <li>经授权的安全管理员必须保证现场，建筑，安装，连接，使用，拆卸以及运输等关键性系统的安全度。</li>
+            </ul>
+            <hazardstatement id="hazardstatement_llm_w21_tkc">
+                <messagepanel id="messagepanel_mlm_w21_tkc">
+                    <typeofhazard>只有您完全了解所有正确的安全检测和安装说明之后，才能进行本项安装。</typeofhazard>
+                    <howtoavoid>否则，它会给用户带来危险，造成损失。</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+        </p>
     </conbody>
 </concept>
